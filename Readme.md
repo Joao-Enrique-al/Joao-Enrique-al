@@ -72,15 +72,6 @@
   </a>
 </div>
 
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Joao-Enrique-al/Joao-Enrique-al/activity-graph-output/activity-graph.svg?radius=16&theme=vue&area=true&order=5&custom_title=Gr%C3%A1ficos%20de%20commits&hide_border=true" height="300" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/Joao-Enrique-al/Joao-Enrique-al/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <picture data-importer="pacman">
